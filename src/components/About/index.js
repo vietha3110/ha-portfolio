@@ -13,12 +13,13 @@ const About = () => {
                     </p>
                 </div>
                 <p className="text-xl mt-20">
-                    I'm an aspiring full-stack software engineer based in Greater Seattle Area, WA. I've recently graduated from App Academy where I have developed core competencies in JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, and Postgres. In addition, I've had the opportunity to work on a wide range of projects, including building full-stack web applications, developing algorithms, and working with data structures. By the way, check out my <Link to="portfolio" smooth duration={500} style={{fontWeight:"600", cursor:"pointer"}}>projects.</Link>
+                    I'm an aspiring full-stack software engineer based in Greater Seattle Area, WA. I've been sharpening my coding skills at App Academy's Full-time Software Engineering Program. My toolkit includes JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, and Postgres. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. And if that's not enough, I even have a few years of experience in the exciting world of fintech, e-commerce, and e-logistics as a Product Ops Lead. I like to think of myself as a jack-of-all-trades, but don't just take my word for it 😂. Check out my <Link to="portfolio" smooth duration={500} style={{fontWeight:"600", cursor:"pointer"}}>projects </Link> and see for yourself.
                 </p>
                 <br />
                 <p className="text-xl">
-                    Prior to pursuing a career as a Software Engineer, I had 7+ years of experience working with tech startups and scale-ups in the fintech, e-commerce, and e-logistics industries. In these roles, I gained expertise in product operations and maagement, strategy planning, and data analysis.
+                    And if you're curious about my background before coding, let me tell you! I used to work in tech industries(fintech, ecommerce, OTT) as a Product Ops Manager. In this role, I gained expertise in product operations and management, strategy planning, user experience, project management and data analysis.
                 </p>
+                
             </div>
         </div>
     )
