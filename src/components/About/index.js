@@ -12,14 +12,10 @@ const About = () => {
                         About
                     </p>
                 </div>
-                <p className="text-xl mt-20">
-                    I'm an aspiring full-stack software engineer based in Greater Seattle Area, WA. I've been sharpening my coding skills at App Academy's Full-time Software Engineering Program. My toolkit includes JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, and Postgres. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. And if that's not enough, I even have a few years of experience in the exciting world of fintech, e-commerce, and e-logistics as a Product Ops Lead. I like to think of myself as a jack-of-all-trades, but don't just take my word for it 😂. Check out my <Link to="portfolio" smooth duration={500} style={{fontWeight:"600", cursor:"pointer"}}>projects </Link> and see for yourself.
+                <p className="text-xl mt-5">
+                    I'm an aspiring full-stack software engineer based in Greater Seattle Area, WA. I've been sharpening my coding skills at App Academy's Full-time Software Engineering Program. My toolkit includes JavaScript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask, and Postgres. I've tackled a variety of projects, from full-stack web apps to algorithmic puzzles. And if that's not enough, I even have a few years of experience in the exciting world of fintech, e-commerce, and e-logistics as a Product Ops Manger. In this role, I gained expertise in product operations and management, strategy planning, user experience, project management and data analysis. I like to think of myself as a jack-of-all-trades, but don't just take my word for it 😂. Check out my <Link to="portfolio" smooth duration={500} style={{fontWeight:"600", cursor:"pointer"}}>projects </Link> and see for yourself.
                 </p>
                 <br />
-                <p className="text-xl">
-                    And if you're curious about my background before coding, let me tell you! I used to work in tech industries(fintech, ecommerce, OTT) as a Product Ops Manager. In this role, I gained expertise in product operations and management, strategy planning, user experience, project management and data analysis.
-                </p>
-                
             </div>
         </div>
     )
