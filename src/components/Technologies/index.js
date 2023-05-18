@@ -10,6 +10,7 @@ import sqlite from '../../assets/techstacks/sqlite.svg';
 import css from '../../assets/techstacks/css-3.svg';
 import html from '../../assets/techstacks/html-5.svg';
 import git from '../../assets/techstacks/git-icon.svg';
+import tailwind from '../../assets/techstacks/tailwindcss.svg'
 const TechStacks = () => {
     const techs = [
         {
@@ -86,7 +87,12 @@ const TechStacks = () => {
             src: git,
             title: 'Git',
             style: 'shadow-orange-50'
-            
+        },
+        {
+            id: 13, 
+            src: tailwind,
+            title: 'Tailwind',
+            style: 'shadow-orange-50'
         },
     ]
     return (
